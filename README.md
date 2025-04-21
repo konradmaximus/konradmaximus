@@ -1,4 +1,4 @@
-<h1>Hello World!, I'm Konrad, a Poland Web Developer 👋🏼 </h1>
+<h1>Hi, I'm Konrad, a Poland Web Developer 👋</h1>
 <p></p>
 🛜 Currently working on my own <a href="https://kondziuportfolio.pl/">website</a><br>
 💻 Learning web development and programming<br>
